@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "8efb27780dbe006b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0244ccc512a9ad8f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Evolution of API Calls.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be29a34fe7f9b58c",
+    "type": "split",
+    "children": [
+      {
+        "id": "65444c8675e946e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56b7fc933e12977b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9770c767c1d108d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3fb3f21d54e364d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2f90014a96d5d90",
+    "type": "split",
+    "children": [
+      {
+        "id": "82c6599f02a4a628",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94f9cf6506e38c75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Evolution of API Calls.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2817e89695107a3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Evolution of API Calls.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46355acff86c7df7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f98044f5b54a571d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Evolution of API Calls.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0244ccc512a9ad8f",
+  "lastOpenFiles": [
+    "Fundamentals of Web App.md",
+    "Evolution of API Calls.md",
+    "Untitled.md"
+  ]
+}
