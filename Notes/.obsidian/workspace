@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Evolution of API Calls.md",
+            "file": "Fundamentals of React.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolution of API Calls.md",
+                "file": "Fundamentals of React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evolution of API Calls.md",
+                "file": "Fundamentals of React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evolution of API Calls.md"
+                "file": "Fundamentals of React.md"
               }
             }
           }
@@ -130,8 +130,11 @@
   },
   "active": "0244ccc512a9ad8f",
   "lastOpenFiles": [
-    "Fundamentals of Web App.md",
+    "2022-09-22.md",
+    "Fundamentals of React.md",
     "Evolution of API Calls.md",
-    "Untitled.md"
+    "Fundamentals of Web App.md",
+    "Pasted image 20220920180512.png",
+    "Pasted image 20220920181524.png"
   ]
 }

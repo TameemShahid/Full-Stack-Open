@@ -13,6 +13,7 @@
 	- The JavaScript code (main.js)
 	- and the raw data fetched from api call made from main.js (data.json)
 - The **Form tag** has attributes namely, *action* and *method*. Action contains the url where the request is send and method defines the type of request (GET, POST, PUT, DELETE).
+
 # AJAX (Asynchronous JavaScript and XML)
 AJAX is an approach that enabled the fetching of content to web pages using JS included within the HTML, without the neet to rerender the web page.
 Prior to AJAX all web pages worked like the [[Fundamentals of Web App#Traditional Web Application| traditional web application.]]
